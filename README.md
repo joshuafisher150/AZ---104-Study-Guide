@@ -1,4 +1,4 @@
-# AZ---104-Study-Guide
+# AZ-104-Study-Guide
 
 # Welcome All Learners
 
