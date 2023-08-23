@@ -1,4 +1,4 @@
-## Legacy systems before Cloud 
+### Legacy systems before Cloud 
 ### (As you can tell I enjoy hand written notes)
 <img width="360" alt="Screenshot 2023-08-22 at 8 12 34 PM" src="https://github.com/joshuafisher150/AZ---104-Study-Guide/assets/132490970/839de6f8-4346-4a48-8b66-120bbc55eb20">
 
