@@ -11,6 +11,6 @@
 [Solution Architect Skill Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-skills-navigator-for-solutions-architects/Azure_Infra_Guide_SolutionArchitect-2022.05.19.pdf)
 
 1. Azure Fundamentals
-..* Cloud Computing
-..* Benefits of Cloud Services
-..* Cloud Service Types
+* Cloud Computing
+* Benefits of Cloud Services
+* Cloud Service Types
